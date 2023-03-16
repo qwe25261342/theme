@@ -44,7 +44,13 @@
   "rose":{
     "--mainbgColor":"#B73E3E",
     "--mainTextColor":"#DBC8AC",
-    "--mainBorderColor":"#EDDBC0",
+    "--mainBorderColor":"#814624",
     "--otherColor":"#DD5353"
+  },
+  "香蕉吐司":{
+    "--mainbgColor":"#E5BE24",
+    "--mainTextColor":"#9A654B",
+    "--mainBorderColor":"#EDDBC0",
+    "--otherColor":"#F9EED1"
   }
 }
