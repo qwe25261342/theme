@@ -40,5 +40,11 @@
     "--mainTextColor":"#FFF2F2",
     "--mainBorderColor":"#FAD4D4",
     "--otherColor":"#F47C7C"
+  },
+  "rose":{
+    "--mainbgColor":"#B73E3E",
+    "--mainTextColor":"#DBC8AC",
+    "--mainBorderColor":"#EDDBC0",
+    "--otherColor":"#DD5353"
   }
 }
