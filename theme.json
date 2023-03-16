@@ -23,10 +23,22 @@
     "--mainBorderColor":"#9DC08B",
     "--otherColor":"#EDF1D6"
   },
-  "rose":{
-    "--mainbgColor":"#B73E3E",
-    "--mainTextColor":"#DBC8AC",
-    "--mainBorderColor":"#EDDBC0",
-    "--otherColor":"#DD5353"
+  "warm":{
+    "--mainbgColor":"#A75D5D",
+    "--mainTextColor":"#FFC3A1",
+    "--mainBorderColor":"#F0997D",
+    "--otherColor":"#D3756B"
+  },
+  "dark":{
+    "--mainbgColor":"#000000",
+    "--mainTextColor":"#C69749",
+    "--mainBorderColor":"#735F32",
+    "--otherColor":"#282A3A"
+  },
+  "cream":{
+    "--mainbgColor":"#EF9F9F",
+    "--mainTextColor":"#FFF2F2",
+    "--mainBorderColor":"#FAD4D4",
+    "--otherColor":"#F47C7C"
   }
 }
