@@ -1,0 +1,32 @@
+{
+  "earth":{
+    "--mainbgColor":"#ABC270",
+    "--mainTextColor":"#473C33",
+    "--mainBorderColor":"#FDA769",
+    "--otherColor":"#FEC868"
+  },
+  "purple":{
+    "--mainbgColor":"#B47CE0",
+    "--mainTextColor":"#C780FA",
+    "--mainBorderColor":"#FADA9D",
+    "--otherColor":"#FBF1D3"
+  },
+  "ocean":{
+    "--mainbgColor":"#82AAE3",
+    "--mainTextColor":"#91D8E4",
+    "--mainBorderColor":"#BFEAF5",
+    "--otherColor":"#EAFDFC"
+  },
+  "grassland":{
+    "--mainbgColor":"#609966",
+    "--mainTextColor":"#40513B",
+    "--mainBorderColor":"#9DC08B",
+    "--otherColor":"#EDF1D6"
+  },
+  "rose":{
+    "--mainbgColor":"#B73E3E",
+    "--mainTextColor":"#DBC8AC",
+    "--mainBorderColor":"#EDDBC0",
+    "--otherColor":"#DD5353"
+  }
+}
