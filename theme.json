@@ -55,13 +55,12 @@
       "--otherColor":"#F9EED1"
     }
   },
-  "title:{
-      "text":{
-        "fontSize":"28"
-       },
-      "img":{
-        "url":"123"
-      }
+  "title":{
+    "text":{
+      "fontSize":"28"
+     },
+    "img":{
+      "url":"123"
     }
   }
 }
